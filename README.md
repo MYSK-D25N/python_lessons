@@ -1,1 +1,1 @@
-Short project description.
+Changed short project description.
